@@ -1,6 +1,6 @@
 # WARF▲ME Runway
 
-[![CI](https://github.com/Strikr321/warframe-runway/actions/workflows/ci.yml/badge.svg)](https://github.com/Strikr321/warframe-runway/actions/workflows/ci.yml)
+[![CI](https://github.com/tsublok/warframe-runway/actions/workflows/ci.yml/badge.svg)](https://github.com/tsublok/warframe-runway/actions/workflows/ci.yml)
 
 A full-stack fashion frame studio for Warframe — build color loadouts, generate shareable poster cards, and track your styled collection.
 
